@@ -1,5 +1,5 @@
 //
-// # SimpleServer
+// # SimpleServer Ing. Jonathan Olier
 //
 // A simple chat server using Socket.IO, Express, and Async.
 //
